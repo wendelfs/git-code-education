@@ -1,2 +1,4 @@
 # git-code-education
-# git add .
+# git add arquivo.txt
+# git commit arquivo.txt 
+# 
