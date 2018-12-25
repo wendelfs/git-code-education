@@ -1,5 +1,6 @@
 # git add arquivo.txt
 # git commit -m "Comitando arquivo.txt"
+# vim arquivo.txt
 # git add arquivo.txt
 # git commit -m "Alterando o arquivo.txt"
 # git add teste.php
