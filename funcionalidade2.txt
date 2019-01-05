@@ -1,0 +1,3 @@
+<?php 
+	echo 'adicionando funcionalidade 2'
+?>
